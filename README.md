@@ -1,5 +1,5 @@
 # PyCore
-A Python server core for Supercell games written on Python
+A simple & lightweight server core for Supercell games written on Python
 
 ## Requirements
 * [Python 3.11](https://www.python.org/downloads/release/python-3110/)
@@ -14,4 +14,5 @@ This repository is only the core of a server, you need to implement all the pack
 
 
 ![screen](/Screens/console.png)
+
 
